@@ -41,6 +41,10 @@ namespace Coin_Toss
             {
                 Console.WriteLine("You got it wrong, try again!");
             }
+
+            const string developer = "Developer: Jeffrey Nightengale";
+
+            Console.WriteLine(developer);
         }
     }
 }
